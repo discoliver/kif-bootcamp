@@ -1,0 +1,21 @@
+PODS:
+  - Bolts/Tasks (1.6.0)
+  - KIF (3.3.1):
+    - KIF/Core (= 3.3.1)
+  - KIF/Core (3.3.1)
+  - Nocilla (0.10.0)
+  - Parse (1.12.0):
+    - Bolts/Tasks (~> 1.5)
+
+DEPENDENCIES:
+  - KIF (~> 3.0)
+  - Nocilla
+  - Parse
+
+SPEC CHECKSUMS:
+  Bolts: f52a250053bb517ca874523c3913776359ab3def
+  KIF: ff9f0e585503871bcd096937cc760081d770c5e2
+  Nocilla: ae0a2b05f3087b473624ac2b25903695df51246a
+  Parse: de2c52a9a1421b91ae7594ab8ce191afd184f19b
+
+COCOAPODS: 0.39.0
